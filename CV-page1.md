@@ -4,7 +4,7 @@
  &emsp; &emsp; &emsp;  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;  <a href="CV-page1.html">CV</a>  &emsp; &emsp; &emsp;   <a href="research-page2.html">Research</a> &emsp;  &emsp; &emsp;    <a href="teaching-page3.html">Teaching</a>  &emsp; &emsp; &emsp;  <a href="contact-page4.html">Contact</a>
 <hr>
 
-<iframe src="https://rushgoul.github.io/Home/Rushaine-CV.pdf" width="640" height="480"></iframe>
+<iframe src="https://rushgoul.github.io/Home/Rushaine-CV.pdf" width="1000px" height="800px"></iframe>
 
 
 <p>
