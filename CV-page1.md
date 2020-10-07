@@ -5,7 +5,7 @@
 <hr>
 
 
-<p> Open CV  <embed src="https://github.com/rushgoul/Home/blob/main/Rushaine%20Goulbourne-CV.pdf" type="application/pdf"/> .</p>
+<a href="new_rep.html">Open CV</a>
 
 
 <p>
