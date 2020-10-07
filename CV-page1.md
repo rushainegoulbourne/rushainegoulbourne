@@ -8,6 +8,6 @@
  Download CV below 
 </p>
 
-<p> Rushaine Goulbourne<a href="https://github.com/rushgoul/Home/raw/main/Rushaine%20Goulbourne-CV.pdf">CV</a>.</p>
+<p> Rushaine Goulbourne<a href="https://github.com/rushgoul/Home/raw/main/Rushaine%20Goulbourne-CV.pdf"> CV</a>.</p>
 
 
