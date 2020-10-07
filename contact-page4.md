@@ -4,5 +4,14 @@
 <hr>
 
 <p>
- Download CV below 
+Rushaine Goulbourne <br>
+Economics Ph.D. Candidate
+
+University of Alabama <br>
+Department of Economics, Finance, and Legal Studies<br>
+200 Alston Hall<br>
+Box 870224<br>
+Tuscaloosa, AL 35487<br>
+
+rdgoulbourne@crimson.ua.edu
 </p>
