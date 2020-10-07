@@ -10,3 +10,6 @@
 </p>
 
 <p><a href="mailto:rdgoulbourne@crimson.ua.edu">Email me</a></p>
+
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+
