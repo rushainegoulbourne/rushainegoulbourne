@@ -5,12 +5,12 @@
 <hr>
 
 
-<embed src="https://rushgoul.github.io/Rushaine%20Goulbourne-CV.pdf" type="application/pdf" />
+<embed src="https://rushgoul.github.io/Rushain-CV.pdf" type="application/pdf" />
 
 <p>
  Download CV below 
 </p>
 
-<p> Rushaine Goulbourne<a href="https://github.com/rushgoul/Home/raw/main/Rushaine%20Goulbourne-CV.pdf"> CV</a>.</p>
+<p> Rushaine Goulbourne<a href="https://github.com/rushgoul/Home/raw/main/Rushaine-CV.pdf"> CV</a>.</p>
 
 
