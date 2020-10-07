@@ -5,7 +5,7 @@
 <hr>
 
 
- <p>Open a PDF file <a href="Rushaine%20Goulbourne-CV.pdf">example</a>.</p>
+ <p>Open a PDF file <embed src="https://rushgoul.github.io/Home/Rushaine Goulbourne.pdf" type="application/pdf" />.</p>
 
 
 
