@@ -7,7 +7,7 @@
 
 
 
-<img style='vertical-align:middle;' src=src="https://rushgoul.github.io/Home/Headshot.jpg">
+<img style='vertical-align:middle;' src="https://rushgoul.github.io/Home/Headshot.jpg">
 <div style='vertical-align:middle; display:inline;'>
 Your text here
 </div>
