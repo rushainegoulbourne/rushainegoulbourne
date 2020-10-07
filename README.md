@@ -11,5 +11,3 @@
 
 <p><a href="mailto:rdgoulbourne@crimson.ua.edu">Email me</a></p>
 
- <p>Open a PDF file <a href="https://github.com/rushgoul/Home/raw/main/Rushaine%20Goulbourne-CV.pdf">example</a>.</p>
-
