@@ -6,7 +6,7 @@
 <hr>
 
 
-<div>
+<div class="footer content">
 
   <img src="https://rushgoul.github.io/Home/Headshot.jpg" width="460" height="500">
 
