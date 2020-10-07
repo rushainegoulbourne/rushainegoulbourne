@@ -5,7 +5,7 @@
 
 <p>
 Rushaine Goulbourne <br>
-Economics Ph.D. Candidate
+Economics Ph.D. Candidate <br>
 
 University of Alabama <br>
 Department of Economics, Finance, and Legal Studies<br>
