@@ -2,7 +2,7 @@
 
 <h1> Rushaine Goulbourne</h1>
 
-<a href="page1.html">CV</a> <a href="page1.html">Research</a> <a href="page1.html">Teaching</a> <a href="page1.html">Contact</a>
+<a href="page1.html">CV</a> <a href="page2.html">Research</a> <a href="page1.html">Teaching</a> <a href="page1.html">Contact</a>
 
 
 <p>
