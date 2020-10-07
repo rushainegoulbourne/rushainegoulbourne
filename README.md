@@ -6,9 +6,7 @@
 <hr>
 
 
-<p>
-<img style='vertical-align:middle;' src="https://rushgoul.github.io/Home/Headshot.jpg" width="460" height="500"> I am an Economics Ph.D. candidate in the department of Economics Finance and Legal Studies at the University of Alabama. My areas of interest are Regional Economics, Urban Economics, and Applied Microeconomics.  
-</p>
+<div style="text-align: left"><img style='vertical-align:middle;' src="https://rushgoul.github.io/Home/Headshot.jpg" width="460" height="500"> I am an Economics Ph.D. candidate in the department of Economics Finance and Legal Studies at the University of Alabama. My areas of interest are Regional Economics, Urban Economics, and Applied Microeconomics.  </div>
 
 <div class="container">
     <img class="container__image" src="https://mtdata.ru/u7/photo53A0/20946911428-0/original.jpg#20946911428"/>
