@@ -6,9 +6,7 @@
 <hr>
 
 
-<p align="center">
-  <img src=""https://rushgoul.github.io/Home/Headshot.jpg" width="350" title="hover text">
-</p>
+ <iframe src="https://rushgoul.github.io/Home/Headshot.jpg" width="400px" height="200px"></iframe>
 
 
 
