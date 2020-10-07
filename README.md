@@ -6,7 +6,7 @@
 <hr>
 
 
- <iframe src="https://rushgoul.github.io/Home/Headshot.jpg" width="400px" height="200px"></iframe>
+src="https://rushgoul.github.io/Home/Headshot.jpg" width="400px" height="200px"
 
 
 
