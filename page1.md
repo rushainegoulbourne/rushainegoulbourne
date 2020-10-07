@@ -5,10 +5,8 @@
 <hr>
 
 <p>
- I am an Economics Ph.D. candidate in the department of Economics Finance and Legal Studies at the University of Alabama. My areas of interest are Regional Economics, Urban Economics, and Applied Microeconomics.  
+ Download CV below 
 </p>
 
-<p><a href="mailto:rdgoulbourne@crimson.ua.edu">Email me</a></p>
-
- <p>Open a PDF file <a href="rushgoul/Home/cv/Rushaine Goulbourne-CV.pdf">example</a>.</p>
+ <p>Rushaine Goulbourne <a href="rushgoul/Home/cv/Rushaine Goulbourne-CV.pdf"> CV</a>.</p>
 
