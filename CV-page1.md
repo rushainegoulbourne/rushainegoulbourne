@@ -5,7 +5,7 @@
 <hr>
 
 
-<embed src="https://rushgoul.github.io/Rushain-CV.pdf" type="application/pdf" />
+
 
 <p>
  Download CV below 
