@@ -5,15 +5,6 @@
 <hr>
 
 
-const { BrowserWindow } = require('electron').remote
-const PDFWindow = require('electron-pdf-window')
-
-const win = new BrowserWindow({ width: 800, height: 600 })
-
-PDFWindow.addSupport(win)
-
-win.loadURL(https://github.com/rushgoul/Home/blob/main/Rushaine%20Goulbourne-CV.pdf')
-
 
 <p>
  Download CV below 
