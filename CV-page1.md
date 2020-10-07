@@ -5,8 +5,7 @@
 <hr>
 
 
-<a href="new_rep.html">Open CV</a>
-
+<embed src="https://rushgoul.github.io/Rushaine%20Goulbourne-CV.pdf" type="application/pdf" />
 
 <p>
  Download CV below 
