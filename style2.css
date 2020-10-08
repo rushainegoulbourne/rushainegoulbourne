@@ -1,0 +1,48 @@
+/* Change the appearance of non-hyperlinked texts in the navigation bar */  
+
+.distill-site-nav{
+  color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
+  background-color: rgba(100,1,1,1);
+  font-size: 15px;
+  font-weight: 300;
+  }
+  
+
+/* Change the appearance of hyperlinked texts in the navigation bar */  
+
+.distill-site-nav a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Manages the font color as we hover over hyperlinked texts in Navigation bar */  
+.distill-site-nav a:hover{
+  color: coral;
+}
+
+.distill-site-header {
+}
+
+.distill-site-footer {
+}
+
+@media print {
+  .distill-site-nav {
+    display: none;
+  }
+}
+
+/* Changes text color of dropdown menus*/
+.nav-dropdown-content a, .nav-dropdown-content .nav-dropdown-header{
+  color: black;
+  padding: 6px 24px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  
+}
+
+/* Changes the color of links in the main body when mouse hovers over them */
+a:hover{
+  color: orange;
+}
