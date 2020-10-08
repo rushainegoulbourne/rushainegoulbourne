@@ -11,4 +11,6 @@
 
 <p><a href="mailto:rdgoulbourne@crimson.ua.edu">Email me</a></p>
 
+<head>
 <link href="style.css" rel="stylesheet">
+<\head>
