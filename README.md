@@ -1,7 +1,7 @@
 
 <head>
 <link href="style.css" rel="stylesheet">
-<\head>
+</head>
  
 <h1> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; Rushaine Goulbourne</h1>
 <hr>
