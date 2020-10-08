@@ -1,18 +1,28 @@
-p{
-  color: red;
- }
-
-ul {
+ul { /* Controls Navigation Panel itself */
   list-style-type: none;
-  margin: 0;
+  margin: 2;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
-  position: fixed;
-  top: 0;
-  width: 100%;
+  color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
+  background-color: rgba(100,1,1,1);
+  font-size: 20px;
+  font-weight: 300;
+  position: sticky; /* Keeps the Navigation Panel as we scroll down */
 }
 
 li {
-  display: inline;
+  float: left; /* Aligning the elements of the nav. pane */
+}
+
+li a {
+	display: block;
+	color: inherit;
+    text-align: center;
+  	padding: 5px 20px; /* Controls height of nav tab and width between elements */
+  	text-decoration: none;
+    
+}
+
+li a:hover {
+  background-color: #111; /*Color as we hover over navigation pane.*/
 }
