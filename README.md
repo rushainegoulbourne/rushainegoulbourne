@@ -1,6 +1,6 @@
 
 <head>
-<link href="style.css" rel="stylesheet">
+<link href="style2.css" rel="stylesheet">
 </head>
  
 <h1> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; Rushaine Goulbourne</h1>
