@@ -36,11 +36,14 @@ li a:hover {
 
 
 
-footer {
-  text-align: center;
-  padding: 3px;
-background-color: rgba(120,1,1,1); 
-  color: white;
+.footer {
+   position: fixed;
+   left: 3;
+   bottom: 0;
+   width: 90%;
+   background-color: red;
+   color: white;
+   text-align: center;
 }
 
 
