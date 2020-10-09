@@ -1,6 +1,6 @@
 ul { /* Controls Navigation Panel itself */
   list-style-type: none;
-  margin: 10;
+  margin: 2;
   padding: 0;
   overflow: hidden;
   color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
@@ -29,6 +29,6 @@ li a:hover {
 
 
 #container { 
-	width: 25%; 
-	margin:  auto; 
+	width: 75%; 
+	margin: 0 auto; 
 } 
