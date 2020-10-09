@@ -1,6 +1,6 @@
 ul { /* Controls Navigation Panel itself */
   list-style-type: none;
-  margin: 2;
+  margin: 10;
   padding: 0;
   overflow: hidden;
   color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
