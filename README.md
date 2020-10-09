@@ -25,3 +25,9 @@
 
 </body>
 
+<foot>
+ <p>© Copyright 2020 Rushaine Goulbourne</p>
+ <foot/>
+
+ 
+
