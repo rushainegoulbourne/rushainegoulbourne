@@ -37,7 +37,7 @@ li a:hover {
 
 
 .footer {
-   position: relative;
+   position: fixed;
    left: 3;
    bottom: 0;
    width: 90%;
