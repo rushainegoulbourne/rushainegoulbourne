@@ -46,5 +46,6 @@ li a:hover {
 
 
 .active{
-	Background-color: rgba(255, 255, 255, 255); }
+	color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
+	background-color: rgba(120,1,1,1);}
 
