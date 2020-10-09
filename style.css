@@ -49,3 +49,13 @@ li a:hover {
 	color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
 	background-color: rgba(120,1,1,1);}
 
+
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+
+
