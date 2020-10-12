@@ -10,15 +10,15 @@ ul { /* Controls Navigation Panel itself */
   position: sticky; /* Keeps the Navigation Panel as we scroll down */
 }
 
-li {
+/*li {
   float: right; /* Aligning the elements of the nav. pane */
-}
+} */
 
 li a {
 	display: block;
 	color: inherit;
     text-align: center;
-  	padding: 5px 20px; /* Controls height of nav tab and width between elements */
+  	padding: 10px 20px; /* Controls height of nav tab and width between elements */
   	text-decoration: none;
     
 }
