@@ -7,17 +7,20 @@ ul { /* Controls Navigation Panel itself */
   background-color: rgba(120,1,1,1);
   font-size: 20px;
   font-weight: 300;
-  position: sticky; /* Keeps the Navigation Panel as we scroll down */
+  /*
+	position: sticky; /* Keeps the Navigation Panel as we scroll down */
+  */
 }
 
-li {
+/*li {
   float: right; /* Aligning the elements of the nav. pane */
 } 
+*/
 
 li a {
 	display: block;
 	color: inherit;
-    text-align: center;
+    text-align: left;
   	padding: 10px 20px; /* Controls height of nav tab and width between elements */
   	text-decoration: none;
     
