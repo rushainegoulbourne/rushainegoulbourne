@@ -23,16 +23,17 @@ body {
   color: inherit;
   text-decoration: none;
   text-align: center;
-  padding: 14px 20px;
+  padding: 16px 20px;
   font-size: 17px;
 }
 
 .topnav a:hover {
+ background-color: gray;
   color: purple;
 }
 
 .topnav a.active {
-  background-color: #111; /*Color as we hover over navigation pane.*/
+  background-color: gray; /*Color as we hover over navigation pane.*/
   color: white;
 }
 
