@@ -41,6 +41,7 @@ li a:hover {
    left: 3;
    bottom: 0;
    height: 100px;
+   padding:20px;
   /* width: 90%; */
    background-color: rgba(120,1,1,1);;
    color: white;
