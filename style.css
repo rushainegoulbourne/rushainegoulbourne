@@ -4,7 +4,7 @@ ul { /* Controls Navigation Panel itself */
   padding: 0;
   overflow: hidden;
   color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
-  background-color: rgba(110,1,1,1);
+  background-color: rgba(120,1,1,1);
   font-size: 20px;
   font-weight: 300;
   position: sticky; /* Keeps the Navigation Panel as we scroll down */
