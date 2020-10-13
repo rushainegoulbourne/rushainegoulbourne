@@ -40,12 +40,16 @@ body {
   float: right;
 }
 
-@media screen and (max-width: 600px) { /*Collapse menu on smaller screens.*/
+
+/*Collapse menu on smaller screens.*/
+/*
+@media screen and (max-width: 600px) { 
   .topnav a {
     float: none;
     width: 100%;
   }
 }
+*/
 
 
 @media print {
