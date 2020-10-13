@@ -42,14 +42,12 @@ body {
 
 
 /*Collapse menu on smaller screens.*/
-/*
-@media screen and (max-width: 600px) { 
+@media screen and (max-width: 48px) { 
   .topnav a {
     float: none;
     width: 100%;
   }
 }
-*/
 
 
 @media print {
