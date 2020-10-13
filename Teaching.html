@@ -14,15 +14,27 @@
 <h1 align = "center"> Rushaine Goulbourne </h1>
 <hr>
 
-<div class="topnav">
- <a href="index.html"><i class="fa fa-home"></i></a>
-  <div class="topnav-right">
+<div class="topnav" id="myTopnav">
+ <a class = href="index.html"><i class="fa fa-home"></i></a>
     <a href="CV.html">CV</a>
     <a href="Research.html">Research</a>
     <a class = "active" href="Teaching.html">Teaching</a>
     <a href="Contact.html">Contact</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
   </div>
-</div>
+ 
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
   
 </p>
 <div class="footer">
