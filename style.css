@@ -40,6 +40,14 @@ body {
   float: right;
 }
 
+@media screen and (max-width: 600px) { /*Collapse menu on smaller screens.*/
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+
+
 /*
 #container { 
 	width: 75%; 
