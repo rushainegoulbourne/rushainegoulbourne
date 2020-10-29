@@ -12,7 +12,7 @@ body {
 .topnav {
   overflow: hidden;
   color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
-  background-color: rgba(100,1,1,1);
+  background-color: rgba(120,1,1,1);
   font-weight: 300;
   font-size: 17px;
   position: sticky; /* Keeps the Navigation Panel as we scroll down */
