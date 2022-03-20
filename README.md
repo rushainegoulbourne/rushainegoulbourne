@@ -26,8 +26,8 @@
 
  <img align="right" src="https://rushainegoulbourne.github.io/Headshot.jpg"  width="450" height="640">
 
-<p>I am an Economics Ph.D. candidate in the department of Economics Finance and Legal Studies at the University of Alabama. 
- My areas of interest are Regional Economics, Urban Economics, and Applied Microeconomics.</p>
+<p>I a Postdoc at the Brookings Institution in Washington DC where I work on Housing policy issues relating to housing supply, zoning restrictions, and the implication of climate change on housing. I completed my Economics Ph.D. at the University of Alabama. 
+My areas of interest are Regional Economics, Urban Economics, Labor Economics, Applied Microeconomics, Housing Policy, and Climate Policy.</p>
 
 <p><a href="mailto:rdgoulbourne@crimson.ua.edu">Email me</a></p>
   
@@ -36,7 +36,7 @@
  <div style="clear:both;"></div>
  
  <div class="footer">
- <p>© Copyright 2020 Rushaine Goulbourne</p>
+ <p>© Copyright 2022 Rushaine Goulbourne</p>
 </div>
 </div>
 </body>
