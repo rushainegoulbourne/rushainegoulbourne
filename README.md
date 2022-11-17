@@ -26,10 +26,10 @@
 
  <img align="right" src="https://rushainegoulbourne.github.io/Headshot.jpg"  width="450" height="640">
 
-<p>I a Postdoc at the Brookings Institution in Washington DC where I work on Housing policy issues relating to housing supply, zoning restrictions, and the implication of climate change on housing. I completed my Economics Ph.D. at the University of Alabama. 
-My areas of interest are Regional Economics, Urban Economics, Labor Economics, Applied Microeconomics, Housing Policy, and Climate Policy.</p>
+<p>I am a Senior Quantitative Analyst for Climate Research at Freddi Mac in Mclean, Virginia. In my current position, I provide analysis of natural disaster impact and risks that helps senior management to makde portfolio decisions. I completed my Economics Ph.D. at the University of Alabama.
+My areas of interest are Urban Economics, Labor Economics, Housing Policy, and Climate Policy. As a native of a Small Island Developing State (SID), I also have an interest in issues affecting growth in these countries. </p>
 
-<p><a href="mailto:rdgoulbourne@crimson.ua.edu">Email me</a></p>
+<p><a href="mailto:goulbourne92@gmail.com">Email me</a></p>
   
 
  
